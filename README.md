@@ -42,16 +42,25 @@ Engage with resources designed for women who are passionate about travel and STE
 
 We believe in using cutting-edge technologies to provide the best experience:
 
-- **React**: For building a highly responsive, dynamic, and beautiful user interface.
-- **Framer Motion**: To give life to our UI with smooth animations.  
-- **Tailwind CSS**: For sleek, modern design with minimal effort.  
-- **Node.js**: Backend operations to support real-time interactions.
-- **Socket.IO**: Powers the real-time chat functionality.
-- **Supabase**: 🔧 for database management and authentication. Supabase uses PostgreSQL , a powerful open-source relational database, as its underlying database engine for  handling structured data and ensuring data integrity with ACID compliance.
+Here’s the updated version with emojis:
 
-- **Google’s Generative AI**🧠: For advanced natural language processing and health insights generation.
+---
 
-Our tech stack ensures scalability, speed, and security, so you can focus on your journey while we handle everything behind the scenes!
+## 💻 **Technologies Used** 🔧
+
+We believe in using cutting-edge technologies to provide the best experience:
+
+- **React** ⚛️: For building a highly responsive, dynamic, and beautiful user interface.
+- **Framer Motion** 🎥: To give life to our UI with smooth animations.  
+- **Tailwind CSS** 🎨: For sleek, modern design with minimal effort.  
+- **Node.js** 🌍: Backend operations to support real-time interactions.
+- **Socket.IO** 🔄: Powers the real-time chat functionality.
+- **Supabase** 🔧: For database management and authentication. Supabase uses **PostgreSQL** 🐘, a powerful open-source relational database, as its underlying database engine for handling structured data and ensuring data integrity with ACID compliance.
+- **API Integration** 🔗: Custom-built health insights APIs.
+- **Google’s Generative AI** 🧠: For advanced natural language processing and health insights generation.
+
+Our tech stack ensures scalability, speed, and security, so you can focus on your journey while we handle everything behind the scenes! 🌟
+
 
 ---
 
@@ -135,27 +144,6 @@ Explore resources and communities for **women in travel** and **STEM** (Science,
 
 ---
 
-## ⚙️ **Features** 
-- **Smart Chatbot** for personalized assistance
-- **Work-Life Balance Tracker** for time management
-- **Health Trackers** for menstrual and mental well-being
-- **Global Communities** for real-time engagement
-- **Resource Sections** on Travel and STEM
-
-## 🛠️ **Technology Used**
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js
-- **API Integration**: Custom-built health insights APIs
-- **Real-Time Chat**: Socket.io for live communication
-
-## 💬 **Links**
-- [Deployed Chatbot](https://example.com/chatbot)
-- [GitHub - Chatbot Repository](https://github.com/your-repo/chatbot)
-- [GitHub - Chatroom Repository](https://github.com/your-repo/chatroom)
-
-
-
----
 
 
 
