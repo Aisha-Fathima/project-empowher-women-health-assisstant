@@ -78,7 +78,7 @@ We’d love to have you contribute to **EmpowHER**! If you have any suggestions 
 
 ## 📧 **Contact**
 
-If you have any questions, feel free to reach out via email at [youremail@example.com](mailto:aishafathimamohammed@gmail.com).
+If you have any questions, feel free to reach out via email at [us](mailto:aishafathimamohammed@gmail.com).
 
 Let’s empower women together! 💪🌍
 
