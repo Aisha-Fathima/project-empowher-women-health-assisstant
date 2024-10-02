@@ -38,13 +38,6 @@ Engage with resources designed for women who are passionate about travel and STE
 
 ---
 
-## 💻 **Technologies Used** 🔧
-
-We believe in using cutting-edge technologies to provide the best experience:
-
-Here’s the updated version with emojis:
-
----
 
 ## 💻 **Technologies Used** 🔧
 
