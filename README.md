@@ -59,11 +59,13 @@ Our tech stack ensures scalability, speed, and security, so you can focus on you
 
 1. **Title & Chatbot** 🤖  
    - **Description**: At the very top, you’re greeted with our smart chatbot that assists you with personalized interactions.
-    ![Chatbot Screenshot](./screenshota/1.png)
+    ![Chatbot Screenshot](./screenshota/ss1.png)
+   ![Chatbot Screenshot](./screenshota/ss7.png)
+   ![Chatbot Screenshot](./screenshota/ss8.png)
 
 2. **Work-Life Balance Tracker** 📊  
    - **Description**: Below the chatbot is the work-life balance tracker that helps manage your time efficiently.
-    ![tracker](./screenshota/1.png)
+    ![tracker](./screenshota/ss10.png)
 
 
 3. **Brief Description** ✨  
@@ -73,21 +75,24 @@ Our tech stack ensures scalability, speed, and security, so you can focus on you
 
 4. **Articles Section** 📚  
    - **Description**: Here, users can access articles that provide valuable insights on wellness, careers, personal growth, and more.
-   ![articles](./screenshota/1.png)
+   ![articles](./screenshota/ss2.png)
 
 5. **Menstrual Cycle & Mental Health Trackers** 🩺  
    - **Description**: Tools to help women track their menstrual cycles and mental health for personalized insights.
-    ![Menstrual Cycle](./screenshota/1.png)
+    ![Menstrual Cycle](./screenshota/ss5.png)
+    ![Menstrual Cycle](./screenshota/ss3.png)
 
 
 6. **Communities & Chat Room** 🌍  
    - **Description**: The chat room feature connects women globally, allowing real-time discussions and engagement with diverse communities.
-    ![Communities & Chat Room](./screenshota/1.png)
-    ![Communities & Chat Room](./screenshota/1.png)
+    ![Communities & Chat Room](./screenshota/ss4.png)
+    ![Communities & Chat Room](./screenshota/ss11.png)
+![Communities & Chat Room](./screenshota/ss13.png)
+
 
 7. **Travel & STEM Sections** ✈️👩‍🔬  
    - **Description**: Finally, users can explore resources related to women in travel and STEM fields.
-   ![Travel & STEM Sections](./screenshota/1.png)
+   ![Travel & STEM Sections](./screenshota/ss6.png)
 
 ---
 
