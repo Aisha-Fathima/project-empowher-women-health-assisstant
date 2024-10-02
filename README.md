@@ -65,12 +65,14 @@ Our tech stack ensures scalability, speed, and security, so you can focus on you
 
 2. **Work-Life Balance Tracker** 📊  
    - **Description**: Below the chatbot is the work-life balance tracker that helps manage your time efficiently.
-    ![tracker](./screenshots/ss10.png)
+     ![tracker](./screenshots/ss25.png)
+    ![tracker](./screenshots/ss15.png)
+   ![tracker](./screenshots/ss16.png)
 
 
 3. **Brief Description** ✨  
    - **Description**: A welcoming description that introduces users to the **EmpowHER** platform and its mission.
-   ![description](./screenshots/1.png)
+   ![description](./screenshots/ss26.png)
 
 
 4. **Articles Section** 📚  
@@ -87,12 +89,15 @@ Our tech stack ensures scalability, speed, and security, so you can focus on you
    - **Description**: The chat room feature connects women globally, allowing real-time discussions and engagement with diverse communities.
     ![Communities & Chat Room](./screenshots/ss4.png)
     ![Communities & Chat Room](./screenshots/ss11.png)
-![Communities & Chat Room](./screenshots/ss13.png)
+   ![Communities & Chat Room](./screenshots/ss13.png)
+  ![Communities & Chat Room](./screenshots/ss14.png)
 
 
 7. **Travel & STEM Sections** ✈️👩‍🔬  
    - **Description**: Finally, users can explore resources related to women in travel and STEM fields.
+    ![Travel & STEM Sections](./screenshots/ss24.png)
    ![Travel & STEM Sections](./screenshots/ss6.png)
+![Travel & STEM Sections](./screenshots/ss23.png)
 
 ---
 
