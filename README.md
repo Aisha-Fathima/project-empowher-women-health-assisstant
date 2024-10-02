@@ -131,7 +131,7 @@ Explore resources and communities for **women in travel** and **STEM** (Science,
 
 ![Travel & STEM Screenshot](./screenshots/ss24.png)
 ![Travel & STEM Screenshot](./screenshots/ss6.png)
-![Travel & STEM Screenshot](./screenshots/ss23.png)
+
 
 ---
 
