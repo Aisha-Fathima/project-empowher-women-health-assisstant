@@ -47,58 +47,113 @@ We believe in using cutting-edge technologies to provide the best experience:
 - **Tailwind CSS**: For sleek, modern design with minimal effort.  
 - **Node.js**: Backend operations to support real-time interactions.
 - **Socket.IO**: Powers the real-time chat functionality.
-- **MongoDB**: To store user data, community posts, and health information securely.  
-- **OpenAI**: For chatbot responses and AI-driven health insights.
+- **Supabase**: 🔧 for database management and authentication. Supabase uses PostgreSQL , a powerful open-source relational database, as its underlying database engine for  handling structured data and ensuring data integrity with ACID compliance.
+
+- **Google’s Generative AI**🧠: For advanced natural language processing and health insights generation.
 
 Our tech stack ensures scalability, speed, and security, so you can focus on your journey while we handle everything behind the scenes!
 
 ---
 
 
+# 🌍 **EmpowHER** - Your Health, Wellness, and Community Hub 🌸
+
+Welcome to **EmpowHER**, a platform designed to connect women across the globe. Explore tools for tracking your health, articles, communities, and more.
+
 ## 📸 **Website Walkthrough** 🌟
 
-1. ## Title & Chatbot 🤖  
-   ### Description: At the very top, you’re greeted with our smart chatbot that assists you with personalized interactions.
-   &nbsp;
-    ![Chatbot Screenshot](./screenshots/ss1.png)
-   ![Chatbot Screenshot](./screenshots/ss7.png)
-   ![Chatbot Screenshot](./screenshots/ss8.png)
+### 1. Title & Chatbot 🤖
+At the very top, you're greeted with our **smart chatbot** that assists with personalized interactions. It's user-friendly, intuitive, and helps you get answers in real-time.
 
-3. **Work-Life Balance Tracker** 📊  
-   - **Description**: Below the chatbot is the work-life balance tracker that helps manage your time efficiently.
-     ![tracker](./screenshots/ss25.png)
-    ![tracker](./screenshots/ss15.png)
-   ![tracker](./screenshots/ss16.png)
+&nbsp;
+
+![Chatbot Screenshot](./screenshots/ss1.png)
+![Chatbot Screenshot](./screenshots/ss7.png)
+![Chatbot Screenshot](./screenshots/ss8.png)
+
+---
+
+### 2. **Work-Life Balance Tracker** 📊
+**Manage your time efficiently** with our easy-to-use work-life balance tracker. Keep track of how you're spending your days and ensure you’re prioritizing yourself.
+
+&nbsp;
+
+![Tracker Screenshot](./screenshots/ss25.png)
+![Tracker Screenshot](./screenshots/ss15.png)
+![Tracker Screenshot](./screenshots/ss16.png)
+
+---
+
+### 3. **Brief Description** ✨
+A welcoming introduction to **EmpowHER**, giving you a quick overview of the platform’s mission to empower women.
+
+&nbsp;
+
+![Description Screenshot](./screenshots/ss26.png)
+
+---
+
+### 4. **Articles Section** 📚
+Browse insightful **articles** that provide tips and advice on wellness, personal growth, and career development.
+
+&nbsp;
+
+![Articles Screenshot](./screenshots/ss2.png)
+
+---
+
+### 5. **Menstrual Cycle & Mental Health Trackers** 🩺
+Stay on top of your **health** by using our trackers for **menstrual cycles** and **mental well-being**. Get personalized insights to better understand your body and mind.
+
+&nbsp;
+
+![Menstrual Cycle Screenshot](./screenshots/ss5.png)
+![Menstrual Cycle Screenshot](./screenshots/ss3.png)
+
+---
+
+### 6. **Communities & Chat Room** 🌍
+Connect with women globally through the **real-time chat room**. Share experiences, discuss topics, and feel supported in our diverse and engaged community.
+
+&nbsp;
+
+![Communities & Chat Room Screenshot](./screenshots/ss4.png)
+![Communities & Chat Room Screenshot](./screenshots/ss11.png)
+![Communities & Chat Room Screenshot](./screenshots/ss13.png)
+![Communities & Chat Room Screenshot](./screenshots/ss14.png)
+
+---
+
+### 7. **Travel & STEM Sections** ✈️👩‍🔬
+Explore resources and communities for **women in travel** and **STEM** (Science, Technology, Engineering, and Math) to discover new opportunities and stories.
+
+&nbsp;
+
+![Travel & STEM Screenshot](./screenshots/ss24.png)
+![Travel & STEM Screenshot](./screenshots/ss6.png)
+![Travel & STEM Screenshot](./screenshots/ss23.png)
+
+---
+
+## ⚙️ **Features** 
+- **Smart Chatbot** for personalized assistance
+- **Work-Life Balance Tracker** for time management
+- **Health Trackers** for menstrual and mental well-being
+- **Global Communities** for real-time engagement
+- **Resource Sections** on Travel and STEM
+
+## 🛠️ **Technology Used**
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js
+- **API Integration**: Custom-built health insights APIs
+- **Real-Time Chat**: Socket.io for live communication
+
+## 💬 **Links**
+- [Deployed Chatbot](https://example.com/chatbot)
+- [GitHub - Chatbot Repository](https://github.com/your-repo/chatbot)
+- [GitHub - Chatroom Repository](https://github.com/your-repo/chatroom)
 
 
-4. **Brief Description** ✨  
-   - **Description**: A welcoming description that introduces users to the **EmpowHER** platform and its mission.
-   ![description](./screenshots/ss26.png)
-
-
-5. **Articles Section** 📚  
-   - **Description**: Here, users can access articles that provide valuable insights on wellness, careers, personal growth, and more.
-   ![articles](./screenshots/ss2.png)
-
-6. **Menstrual Cycle & Mental Health Trackers** 🩺  
-   - **Description**: Tools to help women track their menstrual cycles and mental health for personalized insights.
-    ![Menstrual Cycle](./screenshots/ss5.png)
-    ![Menstrual Cycle](./screenshots/ss3.png)
-
-
-7. **Communities & Chat Room** 🌍  
-   - **Description**: The chat room feature connects women globally, allowing real-time discussions and engagement with diverse communities.
-    ![Communities & Chat Room](./screenshots/ss4.png)
-    ![Communities & Chat Room](./screenshots/ss11.png)
-   ![Communities & Chat Room](./screenshots/ss13.png)
-  ![Communities & Chat Room](./screenshots/ss14.png)
-
-
-8. **Travel & STEM Sections** ✈️👩‍🔬  
-   - **Description**: Finally, users can explore resources related to women in travel and STEM fields.
-    ![Travel & STEM Sections](./screenshots/ss24.png)
-   ![Travel & STEM Sections](./screenshots/ss6.png)
-![Travel & STEM Sections](./screenshots/ss23.png)
 
 ---
 
