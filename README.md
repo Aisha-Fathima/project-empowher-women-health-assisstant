@@ -57,35 +57,36 @@ Our tech stack ensures scalability, speed, and security, so you can focus on you
 
 ## 📸 **Website Walkthrough** 🌟
 
-1. **Title & Chatbot** 🤖  
-   - **Description**: At the very top, you’re greeted with our smart chatbot that assists you with personalized interactions.
+1. ## Title & Chatbot 🤖  
+   ### Description: At the very top, you’re greeted with our smart chatbot that assists you with personalized interactions.
+   &nbsp;
     ![Chatbot Screenshot](./screenshots/ss1.png)
    ![Chatbot Screenshot](./screenshots/ss7.png)
    ![Chatbot Screenshot](./screenshots/ss8.png)
 
-2. **Work-Life Balance Tracker** 📊  
+3. **Work-Life Balance Tracker** 📊  
    - **Description**: Below the chatbot is the work-life balance tracker that helps manage your time efficiently.
      ![tracker](./screenshots/ss25.png)
     ![tracker](./screenshots/ss15.png)
    ![tracker](./screenshots/ss16.png)
 
 
-3. **Brief Description** ✨  
+4. **Brief Description** ✨  
    - **Description**: A welcoming description that introduces users to the **EmpowHER** platform and its mission.
    ![description](./screenshots/ss26.png)
 
 
-4. **Articles Section** 📚  
+5. **Articles Section** 📚  
    - **Description**: Here, users can access articles that provide valuable insights on wellness, careers, personal growth, and more.
    ![articles](./screenshots/ss2.png)
 
-5. **Menstrual Cycle & Mental Health Trackers** 🩺  
+6. **Menstrual Cycle & Mental Health Trackers** 🩺  
    - **Description**: Tools to help women track their menstrual cycles and mental health for personalized insights.
     ![Menstrual Cycle](./screenshots/ss5.png)
     ![Menstrual Cycle](./screenshots/ss3.png)
 
 
-6. **Communities & Chat Room** 🌍  
+7. **Communities & Chat Room** 🌍  
    - **Description**: The chat room feature connects women globally, allowing real-time discussions and engagement with diverse communities.
     ![Communities & Chat Room](./screenshots/ss4.png)
     ![Communities & Chat Room](./screenshots/ss11.png)
@@ -93,7 +94,7 @@ Our tech stack ensures scalability, speed, and security, so you can focus on you
   ![Communities & Chat Room](./screenshots/ss14.png)
 
 
-7. **Travel & STEM Sections** ✈️👩‍🔬  
+8. **Travel & STEM Sections** ✈️👩‍🔬  
    - **Description**: Finally, users can explore resources related to women in travel and STEM fields.
     ![Travel & STEM Sections](./screenshots/ss24.png)
    ![Travel & STEM Sections](./screenshots/ss6.png)
@@ -124,13 +125,13 @@ Want to set up **EmpowHER** on your machine? It’s as simple as 1-2-3! 🚀
 ### Step 1: Clone the Repositories  
 Start by cloning the main website repo:
 ```bash
-git clone https://github.com/your-username/empowHER.git
+git clone https://github.com/Aisha-Fathima/project-empowher-women-health-assisstant.git
 ```
 
 ### Step 2: Install Dependencies  
 Navigate into the project directory and install the required packages:
 ```bash
-cd empowHER
+cd project-empowher-women-health-assisstant
 npm install
 ```
 
@@ -155,7 +156,7 @@ We’d love to have more women in tech contribute to **EmpowHER**! 💻
 ## 💬 **Contact Us**
 
 Have any questions, or suggestions, or just want to chat? Feel free to reach out:  
-📧 **Email**: [Mail us ](mailto:youremail@example.com)
+📧 **Email**: [Mail us ](mailto:aishafathimamohammed@gmail.com)
 
 Let’s work together to make the world a better place for women everywhere! 🌟
 
