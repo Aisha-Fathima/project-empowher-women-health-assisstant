@@ -159,6 +159,7 @@ For developers looking to dive into the code, here are the separate repositories
 
 - **Chatbot Repository**: [Chatbot GitHub Repo](https://github.com/Aisha-Fathima/ai-women-health-assisstant)  
 - **Chat Room Repository**: [Chat Room GitHub Repo](https://github.com/Aisha-Fathima/chat_room-main)
+- **Balance Tracker Repository** : [BalanceTtracker Github Repo](https://github.com/Aisha-Fathima/Balance_tracker-main)
 
 ---
 
