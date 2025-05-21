@@ -9,7 +9,6 @@ Try the website with the link below:
 [EmpowHER Website](https://project-empowher-women-health-assisstant.vercel.app/)
 
 
-
 ---
 
 ## 🚀 **Features that Empower You!**
