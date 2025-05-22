@@ -127,7 +127,7 @@ const Hero = () => (
 
         {/* Button with same width as the image */}
         <motion.a
-          href="https://tracker-balance.vercel.app/"
+          href="https://tracker-olive-nine.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ backgroundColor: '#ff3d84' }} // Darker shade of pink on hover
